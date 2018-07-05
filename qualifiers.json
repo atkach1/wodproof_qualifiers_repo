@@ -81,6 +81,54 @@
       "targetURL": null,
       "dateFrom": null,
       "dateTo": null
+    },
+    {
+      "id": 4,
+      "title": "Qualifier For The Best Cats!",
+      "description_title": "Cats are nice",
+      "description": "For The Best Cats! - some long text can be here",
+      "coverImageURL": "https://www.bluecross.org.uk/sites/default/files/assets/images/118809lpr.jpg",
+      "targetURL": "https://projects.invisionapp.com/d/main#/console/12442803/302066179/preview#project_console",
+      "dateFrom": "01-01-2001 00:00:00",
+      "dateTo": "31-12-2020 00:00:00",
+      "events": [
+        {
+          "id": 9,
+          "title": "Event for Cats 1🐈🐈🐈🐈🐈🐈",
+          "description": "🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈",
+          "videoId": "HCjNJDNzw8Y",
+          "dateFrom": "15-03-2018 00:00:00",
+          "dateTo": "16-10-2018 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Qualifier For The Best Dogs!",
+      "description_title": "Dogs are nice too",
+      "description": "For The Best Dogs! - short text",
+      "coverImageURL": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
+      "targetURL": null,
+      "dateFrom": "03-03-2003 00:00:00",
+      "dateTo": "27-07-2018 00:00:00",
+      "events": [
+        {
+          "id": 7,
+          "title": "Event for Dogs 1🐶",
+          "description": "🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
+          "videoId": "HCjNJDNzw8Y",
+          "dateFrom": "15-06-2018 00:00:00",
+          "dateTo": "15-07-2018 00:00:00"
+        },
+        {
+          "id": 8,
+          "title": "EventEvent for Dogs 2🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
+          "description": null,
+          "videoId": "HCjNJDNzw8Y",
+          "dateFrom": "22-07-2018 14:00:50",
+          "dateTo": "30-08-2018 14:00:50"
+        }
+      ]
     }
   ]
 }
