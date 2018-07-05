@@ -129,6 +129,26 @@
           "dateTo": "30-08-2018 14:00:50"
         }
       ]
+    },
+    {
+      "id": 6,
+      "title": "Сrock Qualifier 🍤",
+      "description_title": null,
+      "description": "🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤",
+      "coverImageURL": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
+      "targetURL": null,
+      "dateFrom": "03-03-2003 00:00:00",
+      "dateTo": "27-07-2018 00:00:00",
+      "events": [
+        {
+          "id": 10,
+          "title": "Event 1",
+          "description": "🍤🍤🍤",
+          "videoId": "HCjNJDNzw8Y",
+          "dateFrom": "15-06-2018 00:00:00",
+          "dateTo": "15-07-2018 00:00:00"
+        }
+      ]
     }
   ]
 }
