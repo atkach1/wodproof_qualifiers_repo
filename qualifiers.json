@@ -1,39 +1,36 @@
-{\
-  "last": true,\
-  "list": [\
-    \{\
-      "id": 1,\
-      "title": "THE DUBAI FITNESS CHAMPIONSHIP",\
-      "description_title": "WHAT\'92S THE DUBAI FITNESS CHAMPIONSHIP?",\
-      "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC\'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world\'92s best, as well as upping the scale across all levels.",\
-      "coverImageURL": "http://www.dxbfitnesschampionship.com/wp-content/uploads/2015/11/dubai-fitness-championships-hero-4.jpg",\
-      "targetURL": "http://www.dxbfitnesschampionship.com/",\
-      "events": [\
-        \{\
-          "id": 1,\
-          "title": "Event 1",\
-          "description": "Some event\\nWith text",\
-          "videoId": "HCjNJDNzw8Y",\
-          "timeFrom": "15-06-2018 00:00:00",\
-          "timeTo": "15-07-2018 00:00:00"\
-        \},\
-        \{\
-          "id": 2,\
-          "title": "Event 2",\
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",\
-          "videoId": "HCjNJDNzw8Y",\
-          "timeFrom": "02-07-2018 14:00:50",\
-          "timeTo": null\
-        \},\
-        \{\
-          "id": 3,\
-          "title": "Event 3",\
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",\
-          "videoId": "Ddykkbb7AhQ",\
-          "timeFrom": "07-07-2018 22:00:00",\
-          "timeTo": "14-07-2018 22:00:00"\
-        \}\
-      ]\
-    \}\
-  ]\
-\}}
+{
+	"last": true,
+	"list": [{
+		"id": 1,
+		"title": "THE DUBAI FITNESS CHAMPIONSHIP",
+		"description_title": "WHAT'92S THE DUBAI FITNESS CHAMPIONSHIP?",
+		"description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
+		"coverImageURL": "http://www.dxbfitnesschampionship.com/wp-content/uploads/2015/11/dubai-fitness-championships-hero-4.jpg",
+		"targetURL": "http://www.dxbfitnesschampionship.com/",
+		"events": [{
+				"id": 1,
+				"title": "Event 1",
+				"description": "Some event\nWith text",
+				"videoId": "HCjNJDNzw8Y",
+				"timeFrom": "15-06-2018 00:00:00",
+				"timeTo": "15-07-2018 00:00:00"
+			},
+			{
+				"id": 2,
+				"title": "Event 2",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+				"videoId": "HCjNJDNzw8Y",
+				"timeFrom": "02-07-2018 14:00:50",
+				"timeTo": null
+			},
+			{
+				"id": 3,
+				"title": "Event 3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+				"videoId": "Ddykkbb7AhQ",
+				"timeFrom": "07-07-2018 22:00:00",
+				"timeTo": "14-07-2018 22:00:00"
+			}
+		]
+	}]
+}
