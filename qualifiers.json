@@ -17,7 +17,19 @@
           "description": "Some event\nWith text",
           "videoId": "HCjNJDNzw8Y",
           "dateFrom": "15-06-2018 00:00:00",
-          "dateTo": "15-07-2018 00:00:00"
+          "dateTo": "15-07-2018 00:00:00",
+          "workout_settings": {
+            "count_type": "REPS",
+            "timer": {
+              "timer_type": "TIMER_STOPWATCH",
+              "round_duration": 0,
+              "rest_duration": 0,
+              "total_rounds": 0,
+              "initial_count_down": 5,
+              "count_up": false,
+              "time_camp": 180
+            }
+          }
         },
         {
           "id": 2,
