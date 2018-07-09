@@ -6,18 +6,18 @@
       "title": "SUMMER THE DUBAI FITNESS CHAMPIONSHIP",
       "description_title": "WHAT'92S THE DUBAI FITNESS CHAMPIONSHIP?",
       "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
-      "coverImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKBi-rJmIwxsB5bgIA8OT2VhatRoZ9YmlG1KWE604m6ji9eLU",
-      "targetURL": "http://www.dxbfitnesschampionship.com/",
-      "dateFrom": "01-06-2018 00:00:00",
-      "dateTo": "31-08-2018 00:00:00",
+      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKBi-rJmIwxsB5bgIA8OT2VhatRoZ9YmlG1KWE604m6ji9eLU",
+      "target_url": "http://www.dxbfitnesschampionship.com/",
+      "date_from": "01-06-2018 00:00:00",
+      "date_to": "31-08-2018 00:00:00",
       "events": [
         {
           "id": 1,
           "title": "Event 1",
           "description": "Some event\nWith text",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "15-06-2018 00:00:00",
-          "dateTo": "15-07-2018 00:00:00",
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "15-06-2018 00:00:00",
+          "date_to": "15-07-2018 00:00:00",
           "workout_settings": {
             "count_type": "REPS",
             "timer": {
@@ -35,17 +35,17 @@
           "id": 2,
           "title": "Event 2",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "02-07-2018 14:00:50",
-          "dateTo": null
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "02-07-2018 14:00:50",
+          "date_to": null
         },
         {
           "id": 3,
           "title": "Event 3",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "videoId": "Ddykkbb7AhQ",
-          "dateFrom": "07-07-2018 22:00:00",
-          "dateTo": "14-07-2018 22:00:00"
+          "video_id": "Ddykkbb7AhQ",
+          "date_from": "07-07-2018 22:00:00",
+          "date_to": "14-07-2018 22:00:00"
         }
       ]
     },
@@ -54,33 +54,33 @@
       "title": "NEW THE DUBAI FITNESS CHAMPIONSHIP",
       "description_title": "WHAT'92S THE DUBAI FITNESS CHAMPIONSHIP?",
       "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
-      "coverImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZeMlKrMQt8k5TKet0h56WtcovEhXdfm_lmJr5mOK-6LieDRJ",
-      "targetURL": "http://www.dxbfitnesschampionship.com/",
-      "dateFrom": "01-07-2018 00:00:00",
+      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZeMlKrMQt8k5TKet0h56WtcovEhXdfm_lmJr5mOK-6LieDRJ",
+      "target_url": "http://www.dxbfitnesschampionship.com/",
+      "date_from": "01-07-2018 00:00:00",
       "events": [
         {
           "id": 4,
           "title": "Event 1",
           "description": "Some event 7lasdklaks laksl aklslakslasasas With text",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "15-06-2018 00:00:00",
-          "dateTo": "15-07-2018 00:00:00"
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "15-06-2018 00:00:00",
+          "date_to": "15-07-2018 00:00:00"
         },
         {
           "id": 5,
           "title": "Event 5 longlongz longlonglonglong  longlonglonglonglonglonglonglonglonglonglong",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "20-07-2018 14:00:50",
-          "dateTo": "30-07-2018 14:00:50"
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "20-07-2018 14:00:50",
+          "date_to": "30-07-2018 14:00:50"
         },
         {
           "id": 6,
           "title": "Event 6",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "videoId": "Ddykkbb7AhQ",
-          "dateFrom": "07-07-2018 22:00:00",
-          "dateTo": "14-07-2018 22:00:00"
+          "video_id": "Ddykkbb7AhQ",
+          "date_from": "07-07-2018 22:00:00",
+          "date_to": "14-07-2018 22:00:00"
         }
       ]
     },
@@ -89,28 +89,28 @@
       "title": "Modest Qualifier",
       "description_title": "Because!",
       "description": "The Most Modest Qualifier",
-      "coverImageURL": null,
-      "targetURL": null,
-      "dateFrom": null,
-      "dateTo": null
+      "cover_image_url": null,
+      "target_url": null,
+      "date_from": null,
+      "date_to": null
     },
     {
       "id": 4,
       "title": "Qualifier For The Best Cats!",
       "description_title": "Cats are nice",
       "description": "For The Best Cats! - some long text can be here",
-      "coverImageURL": "https://www.bluecross.org.uk/sites/default/files/assets/images/118809lpr.jpg",
-      "targetURL": "https://en.wikipedia.org/wiki/Cat",
-      "dateFrom": "01-01-2001 00:00:00",
-      "dateTo": "31-12-2020 00:00:00",
+      "cover_image_url": "https://www.bluecross.org.uk/sites/default/files/assets/images/118809lpr.jpg",
+      "target_url": "https://en.wikipedia.org/wiki/Cat",
+      "date_from": "01-01-2001 00:00:00",
+      "date_to": "31-12-2020 00:00:00",
       "events": [
         {
           "id": 9,
           "title": "Event for Cats 1🐈🐈🐈🐈🐈🐈",
           "description": "🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "15-03-2018 00:00:00",
-          "dateTo": "16-10-2018 00:00:00",
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "15-03-2018 00:00:00",
+          "date_to": "16-10-2018 00:00:00",
           "workout_settings": {
             "count_type": "ROUNDS",
             "timer": {
@@ -131,26 +131,26 @@
       "title": "Qualifier For The Best Dogs!",
       "description_title": "Dogs are nice too",
       "description": "For The Best Dogs! - short text",
-      "coverImageURL": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
-      "targetURL": null,
-      "dateFrom": "03-03-2003 00:00:00",
-      "dateTo": "27-07-2018 00:00:00",
+      "cover_image_url": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
+      "target_url": null,
+      "date_from": "03-03-2003 00:00:00",
+      "date_to": "27-07-2018 00:00:00",
       "events": [
         {
           "id": 7,
           "title": "Event for Dogs 1🐶",
           "description": "🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "15-06-2018 00:00:00",
-          "dateTo": "15-07-2018 00:00:00"
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "15-06-2018 00:00:00",
+          "date_to": "15-07-2018 00:00:00"
         },
         {
           "id": 8,
           "title": "EventEvent for Dogs 2🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
           "description": null,
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "22-07-2018 14:00:50",
-          "dateTo": "30-08-2018 14:00:50",
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "22-07-2018 14:00:50",
+          "date_to": "30-08-2018 14:00:50",
           "workout_settings": {
             "count_type": "REPS",
             "timer": {
@@ -171,18 +171,18 @@
       "title": "Сrock Qualifier 🍤",
       "description_title": null,
       "description": "🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤",
-      "coverImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hlWTsm3w3N2TOLABJDw-RmC0NAbgCk4NjYLqHG-t-jZgOB7uWw",
-      "targetURL": null,
-      "dateFrom": "03-03-2003 00:00:00",
-      "dateTo": "27-07-2018 00:00:00",
+      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hlWTsm3w3N2TOLABJDw-RmC0NAbgCk4NjYLqHG-t-jZgOB7uWw",
+      "target_url": null,
+      "date_from": "03-03-2003 00:00:00",
+      "date_to": "27-07-2018 00:00:00",
       "events": [
         {
           "id": 10,
           "title": "Event 1",
           "description": "🍤🍤🍤",
-          "videoId": "HCjNJDNzw8Y",
-          "dateFrom": "15-06-2018 00:00:00",
-          "dateTo": "15-07-2018 00:00:00"
+          "video_id": "HCjNJDNzw8Y",
+          "date_from": "15-06-2018 00:00:00",
+          "date_to": "15-07-2018 00:00:00"
         }
       ]
     }
