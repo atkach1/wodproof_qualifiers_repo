@@ -8,6 +8,7 @@
       "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
       "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKBi-rJmIwxsB5bgIA8OT2VhatRoZ9YmlG1KWE604m6ji9eLU",
       "target_url": "http://www.dxbfitnesschampionship.com/",
+      "target_action_title": "Link to url 1",
       "date_from": "01-06-2018 00:00:00",
       "date_to": "31-08-2018 00:00:00",
       "events": [
@@ -56,6 +57,7 @@
       "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
       "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZeMlKrMQt8k5TKet0h56WtcovEhXdfm_lmJr5mOK-6LieDRJ",
       "target_url": "http://www.dxbfitnesschampionship.com/",
+      "target_action_title": "Link to url 2 from server",
       "date_from": "01-07-2018 00:00:00",
       "events": [
         {
@@ -101,6 +103,7 @@
       "description": "For The Best Cats! - some long text can be here",
       "cover_image_url": "https://www.bluecross.org.uk/sites/default/files/assets/images/118809lpr.jpg",
       "target_url": "https://en.wikipedia.org/wiki/Cat",
+      "target_action_title": "Link to url 3",
       "date_from": "01-01-2001 00:00:00",
       "date_to": "31-12-2020 00:00:00",
       "events": [
@@ -133,6 +136,7 @@
       "description": "For The Best Dogs! - short text",
       "cover_image_url": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
       "target_url": null,
+      "target_action_title": null,
       "date_from": "03-03-2003 00:00:00",
       "date_to": "27-07-2018 00:00:00",
       "events": [
@@ -173,6 +177,7 @@
       "description": "🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤",
       "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hlWTsm3w3N2TOLABJDw-RmC0NAbgCk4NjYLqHG-t-jZgOB7uWw",
       "target_url": null,
+      "target_action_title": "Link to url 1",
       "date_from": "03-03-2003 00:00:00",
       "date_to": "27-07-2018 00:00:00",
       "events": [
