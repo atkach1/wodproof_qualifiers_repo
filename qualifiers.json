@@ -22,7 +22,7 @@
           "workout_settings": {
             "count_type": "REPS",
             "timer": {
-              "timer_type": "TIMER_AMRAP",
+              "timer_type": "TIMER_COUNTDOWN",
               "round_duration": 16,
               "initial_count_down": 3,
               "count_up": false,
