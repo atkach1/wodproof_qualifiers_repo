@@ -2,51 +2,83 @@
   "last": true,
   "list": [
     {
-      "id": 1,
-      "title": "SUMMER THE DUBAI FITNESS CHAMPIONSHIP",
-      "description_title": "WHAT'92S THE DUBAI FITNESS CHAMPIONSHIP?",
-      "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
-      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKBi-rJmIwxsB5bgIA8OT2VhatRoZ9YmlG1KWE604m6ji9eLU",
-      "target_url": "http://www.dxbfitnesschampionship.com/",
-      "target_action_title": "Link to url 1",
-      "date_from": "01-06-2018 00:00:00",
-      "date_to": "31-08-2018 00:00:00",
+      "сompetition_id": 1,
+      "title": "2018 Aphrodite Games",
+      "description_title": "The qualifiers for the 2018 Aphrodite Games will run between 5th June and 29th June 2018 with 4 qualifying workouts to be completed.",
+      "description": "This year we look to build on from the previous years in establishing the Aphrodite Games as one of the most competitive and fun events in the region, and are delighted that you made the decision to take part in the competition. We are looking forward to having you be a part of the AG.",
+      "cover_image_url": "https://goo.gl/images/oixoMz",
+      "competition_video_id": "ljmePd4Kp3w",
+      "target_url": "https://competitioncorner.net/events/1041#.W2GsQ9gzbOR/",
+      "target_action_title": "Aphrodite Games registration",
+      "dates": "Qualifiers dates: 5th June - 29th June 2018",
       "events": [
         {
-          "id": 1,
-          "title": "Event 1",
-          "description": "Some event\nWith text",
-          "video_id": "HCjNJDNzw8Y",
-          "date_from": "15-06-2018 00:00:00",
-          "date_to": "15-07-2018 00:00:00",
+          "qualifier_id": 1,
+          "title": "Qualifier 1",
+          "description": "15 calorie Row\n6m One-Arm Dumbbell Overhead Lunges\n30 Dumbbell Snatch - alternating\n6m One-Arm Dumbbell Overhead Lunges",
+          "video_id": "93LVtyuZAnc",
+          "dates": "AG18.1 Deadline: Tuesday 26th June",
+          "clickable": true,
           "workout_settings": {
             "count_type": "REPS",
             "timer": {
-              "timer_type": "TIMER_STOPWATCH",
-              "round_duration": 0,
-              "rest_duration": 0,
-              "total_rounds": 0,
-              "initial_count_down": 5,
+              "timer_type": "TIMER_AMRAP",
+              "amrap_duration": 16,
+              "initial_count_down": 3,
               "count_up": false,
               "time_camp": 180
             }
           }
         },
         {
-          "id": 2,
-          "title": "Event 2",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "video_id": "HCjNJDNzw8Y",
-          "date_from": "02-07-2018 14:00:50",
-          "date_to": null
+          "qualifier_id": 2,
+          "title": "Qualifier 2",
+          "description": "60 Double Unders\n15 Box Jump Overs\n15 Chest to Bar\n60 Double Unders\n15 Box Jump Overs\n15 Bar Muscle Ups",
+          "dates": "AG18.2 Deadline: Wednesday 27th June",
+          "clickable": true,
+          "workout_settings": {
+            "count_type": "NONE",
+            "timer": {
+              "timer_type": "TIMER_STOPWATCH",
+              "initial_count_down": 3,
+              "count_up": false,
+              "time_camp": 300
+            }
+          }
         },
         {
-          "id": 3,
-          "title": "Event 3",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "video_id": "Ddykkbb7AhQ",
-          "date_from": "07-07-2018 22:00:00",
-          "date_to": "14-07-2018 22:00:00"
+          "qualifier_id": 3,
+          "title": "CLEAN LADDER E2MOM",
+          "description": "Every 2 minutes: 3 Cleans\n0-2min: 80kg/45kg\n2-4min: 90kg/55kg\netc. adding +10kg every 2min until failure to complete 3 repetitions within the given timeframe",
+          "dates": "AG18.3 Deadline: Thursday 28th June",
+          "clickable": true,
+          "workout_settings": {
+            "count_type": "NONE",
+            "timer": {
+              "timer_type": "TIMER_INTERVAL",
+              "round_duration": 2,
+              "rest_duration": 0,
+              "total_rounds": 20,
+              "initial_count_down": 3,
+              "count_up": false,
+              "time_camp": null
+            }
+          }
+        },
+        {
+          "qualifier_id": 4,
+          "title": "Qualifier 4",
+          "description": "8 MIN AMRAP:\n20 Thrusters\n30 Bar Facing Burpees\n40 Toes to Bar\n\nMen - All Divisions: 55kg\nWomen - All Divisions: 35kg",
+          "dates": "AG18.4 Deadline: Friday 29th June",
+          "workout_settings": {
+            "count_type": "REPS",
+            "timer": {
+              "timer_type": "TIMER_STOPWATCH",
+              "initial_count_down": 3,
+              "count_up": true,
+              "time_camp": 480
+            }
+          }
         }
       ]
     },
