@@ -2,221 +2,388 @@
   "last": true,
   "list": [
     {
-      "сompetition_id": 1,
-      "title": "2018 Aphrodite Games ®",
-      "description_title": "The qualifiers for the 2018 Aphrodite Games will run between 5th June and 29th June 2018 with 4 qualifying workouts to be completed.",
-      "description": "This year we look to build on from the previous years in establishing the Aphrodite Games as one of the most competitive and fun events in the region, and are delighted that you made the decision to take part in the competition. We are looking forward to having you be a part of the AG.",
-      "cover_image_url": "https://motivate.studio/wp-content/uploads/2018/03/AG18.jpg",
-      "competition_video_id": "ljmePd4Kp3w",
-      "target_url": "https://competitioncorner.net/events/1041#.W2GsQ9gzbOR/",
-      "target_action_title": "Aphrodite Games registration",
-      "dates": "Qualifiers dates: 5th June - 29th June 2018",
+      "competition_video_id": "T6Df14FXxd4",
+      "target_action_title": "Register now!",
+      "competition_id": 2,
+      "cover_image_url": "http:\/\/165.227.140.66\/qualifiers\/original_banner_fixed.png",
+      "target_url": "https:\/\/competitioncorner.net\/events\/1292",
+      "description": "The Halfway There Throwdown is a Functional Fitness Competition, searching for the fittest Athletes in OWL and surroundings. We will test the Athlete's broad fitness capacities in challenging yet fun and entertaining events.\nThe Final will take place from 30th November to 2nd December Bielefeld, NRW.\nAll Athletes have to pass our Online Qualifier in September in order to qualify for the finals. The best 40 Male and 40 Female Athletes will battle for the 'Elite' Crown.",
+      "logo": {
+        "backgroundColor": "#FF000000",
+        "origin_logo_url": "http:\/\/165.227.140.66\/HalfwayThereThrowdown_orig.png",
+        "title": "Halfway There Throwdown"
+      },
+      "dates": "Qualifiers dates: September 6th - September 24th 2018",
+      "title": "Halfway There Throwdown",
       "events": [
         {
+          "workout_settings": {
+            "timer": {
+              "time_camp": null,
+              "round_duration": 1020,
+              "total_rounds": 1,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_COUNTDOWN"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "AMRAP 17 Min:\n\n13 Cal row\n8 Burpee Box Jump Over @24\/20\n5 TTB",
           "qualifier_id": 1,
-          "title": "Qualifier 1",
-          "description": "15 calorie Row\n6m One-Arm Dumbbell Overhead Lunges\n30 Dumbbell Snatch - alternating\n6m One-Arm Dumbbell Overhead Lunges",
-          "video_id": "93LVtyuZAnc",
-          "dates": "AG18.1 Deadline: Tuesday 26th June",
-          "clickable": true,
-          "workout_settings": {
-            "count_type": "REPS",
-            "timer": {
-              "timer_type": "TIMER_COUNTDOWN",
-              "round_duration": 16,
-              "initial_count_down": 3,
-              "count_up": false,
-              "time_camp": 180
-            }
-          }
+          "dates": "September 6th \u2013 September 10th",
+          "title": "Workout 1",
+          "video_id": "NDgUzfuGEUI"
         },
         {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 540,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "AMRAP 9 Min:\n\n50 WallBalls @9\/6\n40 Deadlifts @80\/50\n30 HSPU\n20 Bar Muscle Ups",
           "qualifier_id": 2,
-          "title": "Qualifier 2",
-          "description": "60 Double Unders\n15 Box Jump Overs\n15 Chest to Bar\n60 Double Unders\n15 Box Jump Overs\n15 Bar Muscle Ups",
-          "dates": "AG18.2 Deadline: Wednesday 27th June",
-          "clickable": true,
-          "workout_settings": {
-            "count_type": "NONE",
-            "timer": {
-              "timer_type": "TIMER_STOPWATCH",
-              "initial_count_down": 3,
-              "count_up": false,
-              "time_camp": 300
-            }
-          }
+          "dates": "September 13th \u2013 September 17th",
+          "title": "Workout 2",
+          "video_id": "DTRQEPgSL6w"
         },
         {
-          "qualifier_id": 3,
-          "title": "CLEAN LADDER E2MOM",
-          "description": "Every 2 minutes: 3 Cleans\n0-2min: 80kg/45kg\n2-4min: 90kg/55kg\netc. adding +10kg every 2min until failure to complete 3 repetitions within the given timeframe",
-          "dates": "AG18.3 Deadline: Thursday 28th June",
-          "clickable": true,
           "workout_settings": {
-            "count_type": "NONE",
             "timer": {
-              "timer_type": "TIMER_INTERVAL",
-              "round_duration": 2,
-              "rest_duration": 0,
-              "total_rounds": 20,
-              "initial_count_down": 3,
+              "time_camp": 840,
               "count_up": false,
-              "time_camp": null
-            }
-          }
-        },
-        {
-          "qualifier_id": 4,
-          "title": "Qualifier 4",
-          "description": "8 MIN AMRAP:\n20 Thrusters\n30 Bar Facing Burpees\n40 Toes to Bar\n\nMen - All Divisions: 55kg\nWomen - All Divisions: 35kg",
-          "dates": "AG18.4 Deadline: Friday 29th June",
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
           "clickable": false,
-          "workout_settings": {
-            "count_type": "REPS",
-            "timer": {
-              "timer_type": "TIMER_STOPWATCH",
-              "initial_count_down": 3,
-              "count_up": true,
-              "time_camp": 480
-            }
-          }
+          "description": "For Time:\n\n7-9-11-13-15-17\n7-6-5-4-3-2\nChest To Bar Pull Ups\nFront Squats\n\nWeights:\n7x 60\/40KG\n6x 85\/55KG\n5x 100\/70KG\n4x 110\/75KG\n3x 115\/77.5KG\n2x 120\/80KG\n\nTime Cap: 14Min",
+          "qualifier_id": 3,
+          "dates": "September 20th \u2013 September 24th",
+          "title": "Workout 3"
         }
-      ]
+      ],
+      "description_title": "The Athlete Registration will be open until September 6th 2018.\nThe qualifiers for the will run between September 6th and September 24th 2018 with 3 qualifying workouts to be completed."
     },
     {
-      "сompetition_id": 2,
-      "title": "NEW THE DUBAI FITNESS CHAMPIONSHIP",
-      "description_title": "WHAT'92S THE DUBAI FITNESS CHAMPIONSHIP?",
-      "description": "Created in 2012 to raise awareness on the importance of exercise and health, DFC has quickly gained momentum in the fitness world. Becoming an international fitness competition, attracting elite athletes from all over the world, awarding generous cash prizes and using Dubai as its host city has facilitated in DFC'92s rapid success. The Dubai Fitness Championship will continue to provide an exciting and challenging event for both participating athletes and spectators. In 2017, DFC promises to build on the success of the previous years by continue to attract the world'92s best, as well as upping the scale across all levels.",
-      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZeMlKrMQt8k5TKet0h56WtcovEhXdfm_lmJr5mOK-6LieDRJ",
-      "target_url": "http://www.dxbfitnesschampionship.com/",
-      "target_action_title": "Link to url 2 from server",
-      "dates": "01-07-2018 00:00:00",
+      "competition_video_id": null,
+      "target_action_title": "Register now",
+      "competition_id": 4,
+      "cover_image_url": "http:\/\/165.227.140.66\/qualifiers\/dfc181.png",
+      "target_url": "https:\/\/dubaicrossfitchampionship.com\/",
+      "description": "The Dubai CrossFit(TM) Championship is the first CrossFit, Inc. \u2013 sanctioned event in the world rewarding the first place male, female and team competitors with a qualification to the 2019 Rebook CrossFit Games.\nA four day CrossFit competition taking place in Dubai, United Arab Emirates with the goal of bringing together individual and team athletes from around the world to compete in the spirit of fitness.\n\nTo qualify for Dubai CrossFit Championship all athletes must complete a three-week online competition to earn a spot to the Finals.\nThe Dubai CrossFit Championship Finals will host the top thirty seven male, thirty seven female athletes and 10 teams that successfully complete the online qualifier.\nIn order to qualify for The Dubai CrossFit Championships Finals, every athlete must complete three online qualifier workouts.",
+      "logo": {
+        "backgroundColor": "#FFFFFFFF",
+        "origin_logo_url": "http:\/\/165.227.140.66\/DubaiCrossFitC_orig.png",
+        "title": "DFC 2018"
+      },
+      "dates": "Online Qualifiers: October 3rd-21th 2018",
+      "title": "Dubai CrossFit \u2013 Championship 2018",
       "events": [
         {
+          "workout_settings": {
+            "timer": {
+              "time_camp": null,
+              "round_duration": 960,
+              "total_rounds": 1,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_COUNTDOWN"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": false,
+          "description": "TBA",
+          "qualifier_id": 1,
+          "dates": "Oct 3rd- Oct 7th 2018",
+          "title": "Qualifier 1",
+          "video_id": "93LVtyuZAnc"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 300,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": false,
+          "description": "TBA",
+          "qualifier_id": 2,
+          "dates": "Oct 10- Oct 14th 2018",
+          "title": "Qualifier 2"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 300,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": false,
+          "description": "TBA",
+          "qualifier_id": 3,
+          "dates": "Oct 17- Oct 21th 2018",
+          "title": "Qualifier 3"
+        }
+      ],
+      "description_title": "Online Qualifiers: October 3rd-21th 2018"
+    },
+    {
+      "competition_video_id": null,
+      "target_action_title": "Register now",
+      "competition_id": 3,
+      "cover_image_url": "http:\/\/165.227.140.66\/qualifiers\/AtlasGames.png",
+      "target_url": "https:\/\/www.atlasproject.ca\/division-standards-registration\/",
+      "description": "The Atlas Games were created with a sole purpose in mind; offer a competition experience of internationally renown calibre for athletes, judges and volunteers.\nEveryone is held in high regards and treated with utmost professionalism in an environment never before seen in Canada.\nThe energy from the crowd combined with the show put on by local, national and international athletes ensures an event that will thrill both loyal, long-time followers and novice enthusiasts alike.",
+      "logo": {
+        "backgroundColor": "#FF000000",
+        "origin_logo_url": "http:\/\/165.227.140.66\/ATLASGAMESFINAL_orig.png",
+        "title": "Atlas Games 2018"
+      },
+      "dates": "Qualifiers dates: September 1st - September 15th 2018",
+      "title": "Atlas Games 2018",
+      "events": [
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 1320,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "AMRAP 22 Min:\n\n60 Double Unders\n30 Dumbbell Snatches 50\/35\n30 Toes To Bar\n60 Double Unders\n30 Dumbbell Snatches 50\/35\n30 Bar Facing Burpees\n60 Double Unders\n30 Dumbbell Snatches 50\/35\n15 Overhead Squat 115\/75\n60 Double Unders\n30 Dumbbell Snatches 50\/35\n15 Ring Muscle Ups\n",
+          "qualifier_id": 1,
+          "dates": "September 1st \u2013 September 6th",
+          "title": "Workout 181",
+          "video_id": "-vovEREHaog"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 600,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "For Time:\n\n1,000m Row\n50 Thrusters (65\/45)\n30 C2B Pull-ups\n\nTime Cap: 10 minutes",
+          "qualifier_id": 2,
+          "dates": "September 4th \u2013 September 9th",
+          "title": "Workout 182",
+          "video_id": "AFexuW20WNk"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 720,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "12 minutes to complete 183A + 183B:\n\n183A is:\n3 rounds of:\n12 Power Clean 155\/105\n30' OH Walking lunge R 50\/35\n30' OH Walking lunge L 50\/35\n(5' = 1 rep)\n\n183B is:\n1-rep-max Clean & Jerk",
+          "qualifier_id": 3,
+          "dates": "September 7th \u2013 September 12th",
+          "title": "Workout 183A + 183B",
+          "video_id": "P-ZqGVN9gbM"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 660,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "For Time:\n\n5 HSPU\n5 squat Snatches 135\/95\n5 HSPU\n5 squat Snatches 135\/95\n5 HSPU\n5 squat Snatches 135\/95\n10 HSPU\n10 squat Snatches 115\/75\n10 HSPU\n10 squat Snatches 115\/75\n15 HSPU\n15 squat Snatches 95\/65\n\nTime Cap: 11 minutes",
           "qualifier_id": 4,
-          "title": "Event 1",
-          "description": "Some event 7lasdklaks laksl aklslakslasasas With text",
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "Any text could be here",
-          "clickable": false
-        },
-        {
-          "qualifier_id": 5,
-          "title": "Event 5 longlongz longlonglonglong  longlonglonglonglonglonglonglonglonglonglong",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "Some long long long long long long long long long long text here"
-        },
-        {
-          "qualifier_id": 6,
-          "title": "Event 6",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "video_id": "Ddykkbb7AhQ",
-          "dates": "14-07-2018 22:00:00"
+          "dates": "September 10th \u2013 September 15th",
+          "title": "Workout 184",
+          "video_id": "jMzYeBTT-5w"
         }
-      ]
+      ],
+      "description_title": "Atlas Games 2018 "
     },
     {
-      "сompetition_id": 3,
-      "title": "Modest Qualifier",
-      "description_title": "Because!",
-      "description": "The Most Modest Qualifier",
-      "cover_image_url": null,
-      "target_url": null,
-      "dates": null
-    },
-    {
-      "сompetition_id": 4,
-      "title": "Qualifier For The Best Cats!",
-      "description_title": "Cats are nice",
-      "description": "For The Best Cats! - some long text can be here",
-      "cover_image_url": "https://www.bluecross.org.uk/sites/default/files/assets/images/118809lpr.jpg",
-      "competition_video_id": "kJQP7kiw5Fk",
-      "target_url": "https://en.wikipedia.org/wiki/Cat",
-      "target_action_title": "Link to url 3",
-      "dates": "01-01-2001 00:00:00",
+      "competition_video_id": "_Bx0tkBmxiI",
+      "target_action_title": "Register now",
+      "competition_id": 5,
+      "cover_image_url": "http:\/\/165.227.140.66\/qualifiers\/GermanThrowdown2018.png",
+      "target_url": "https:\/\/competitioncorner.net\/events\/1061#.W2cbQSOB23U",
+      "description": "German Throwdown is the elite fitness competition in Germany.\nIn its fifth year, it will be yet again a true test of fitness.\nThe athletes are required to perform tasks ranging from gymnastics to weightlifting, from endurance to highly coordinative movements.\n\nRegistration lasts until August 16th \n\nFinals: November 3-4 2018",
+      "logo": {
+        "backgroundColor": "#FF000000",
+        "origin_logo_url": "http:\/\/165.227.140.66\/TheGermanTD_orig.png",
+        "title": "German Throwdown 2018"
+      },
+      "dates": "Online Qualifiers: October 10th - September 2nd 2018",
+      "title": "German Throwdown 2018",
       "events": [
         {
-          "qualifier_id": 9,
-          "title": "Event for Cats 1🐈🐈🐈🐈🐈🐈",
-          "description": "🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈🐈",
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "15-03-2018 00:00:00",
-          "clickable": true,
           "workout_settings": {
-            "count_type": "ROUNDS",
             "timer": {
-              "timer_type": "TIMER_INTERVAL",
-              "round_duration": 150,
-              "rest_duration": 45,
-              "total_rounds": 5,
+              "time_camp": null,
+              "round_duration": 960,
+              "total_rounds": 1,
+              "count_up": false,
               "initial_count_down": 3,
-              "count_up": false,
-              "time_camp": 0
-            }
-          }
-        }
-      ]
-    },
-    {
-      "сompetition_id": 5,
-      "title": "Qualifier For The Best Dogs!",
-      "description_title": "Dogs are nice too",
-      "description": "For The Best Dogs! - short text",
-      "cover_image_url": "https://www.sciencedaily.com/images/2017/10/171019100944_1_900x600.jpg",
-      "target_url": null,
-      "target_action_title": null,
-      "dates": "Competition dates here 03-03-2003 00:00:00",
-      "events": [
-        {
-          "qualifier_id": 7,
-          "title": "Event for Dogs 1🐶",
-          "description": "🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "15-06-2018 00:00:00"
+              "timer_type": "TIMER_COUNTDOWN"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "7 minutes AMRAP of:\n\n3 Clean & Jerk 3 Chest to Bar\n6 Clean & Jerk 6 Chest to Bar\n9 Clean & Jerk 9 Chest to Bar\n12 Clean & Jerk 12 Chest to Bar\n\nEtc., adding 3 reps to the C&J and C2B each round.\n\n RX: 60\/40KG",
+          "qualifier_id": 1,
+          "dates": "August 10th-19th 2018",
+          "title": "18.1",
+          "video_id": "6jgO40krp4w"
         },
         {
-          "qualifier_id": 8,
-          "title": "EventEvent for Dogs 2🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶",
-          "description": null,
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "22-07-2018 14:00:50",
-          "clickable": true,
           "workout_settings": {
-            "count_type": "REPS",
             "timer": {
-              "timer_type": "TIMER_TABATA",
-              "round_duration": 40,
-              "rest_duration": 15,
-              "total_rounds": 4,
-              "initial_count_down": 8,
+              "time_camp": 1320,
               "count_up": false,
-              "time_camp": 0
-            }
-          }
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "18.2a is:\n\n 5 Rounds for time:\n20\/16 calorie row\n50 Double unders\n5 overhead squats (each round 5 more reps)\n\nThen 18.2b is:\n1 rep-max overhead squat\nTime Cap for 18.2a and 18.2b is: 22 minutes. ",
+          "qualifier_id": 2,
+          "dates": "August 16th-27th 2018",
+          "title": "18.2a + 18.2b",
+          "video_id": "ys5mSgEw3SA"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": null,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "For Time:\n21-15-9\nBurpee box jump overs\nDeadlifts 100\/70kg",
+          "qualifier_id": 3,
+          "dates": "August 24th- September 2nd 2018",
+          "title": "18.3",
+          "video_id": "DSnLPVvovu0"
         }
-      ]
+      ],
+      "description_title": "Online Qualifiers: October 10th - September 2nd 2018"
     },
     {
-      "сompetition_id": 6,
-      "title": "Сrock Qualifier 🍤",
-      "description_title": null,
-      "description": "🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤",
-      "cover_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hlWTsm3w3N2TOLABJDw-RmC0NAbgCk4NjYLqHG-t-jZgOB7uWw",
-      "target_url": null,
-      "target_action_title": "Link to url 1",
-      "dates": "03-03-2003 00:00:00",
+      "competition_video_id": "ljmePd4Kp3w",
+      "target_action_title": "Aphrodite Games registration",
+      "competition_id": 1,
+      "cover_image_url": "http:\/\/165.227.140.66\/qualifiers\/AG18.jpg",
+      "target_url": "https:\/\/competitioncorner.net\/events\/1041#.W2GsQ9gzbOR\/",
+      "description": "This year we look to build on from the previous years in establishing the Aphrodite Games as one of the most competitive and fun events in the region, and are delighted that you made the decision to take part in the competition. We are looking forward to having you be a part of the AG.",
+      "logo": {
+        "backgroundColor": "#FF000000",
+        "origin_logo_url": "http:\/\/165.227.140.66\/ag18_orig.png",
+        "title": "Aphrodite Games 2018"
+      },
+      "dates": "Qualifiers dates: 5th June - 29th June 2018",
+      "title": "2018 Aphrodite Games",
       "events": [
         {
-          "qualifier_id": 10,
-          "title": "Event 1",
-          "description": "🍤🍤🍤",
-          "video_id": "HCjNJDNzw8Y",
-          "dates": "15-06-2018 00:00:00",
-          "clickable": true
+          "workout_settings": {
+            "timer": {
+              "time_camp": 180,
+              "round_duration": 960,
+              "total_rounds": 1,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_COUNTDOWN"
+            },
+            "count_type": "REPS"
+          },
+          "clickable": true,
+          "description": "16 MIN AMRAP:\n15 calorie Row\n6m One-Arm Dumbbell Overhead Lunges\n30 Dumbbell Snatch - alternating\n6m One-Arm Dumbbell Overhead Lunges\n\nMen - All Divisions will use a 22.5kg dumbbell\nWomen - All Divisions will use a 15kg dumbbell",
+          "qualifier_id": 1,
+          "dates": "AG18.1 Deadline: Tuesday 26th June",
+          "title": "Qualifier 1",
+          "video_id": null
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 300,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "For time:\n60 Double Unders\n15 Box Jump Overs\n15 Chest to Bar\n60 Double Unders\n15 Box Jump Overs\n15 Bar Muscle Ups",
+          "qualifier_id": 2,
+          "dates": "AG18.2 Deadline: Wednesday 27th June",
+          "title": "Qualifier 2"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "rest_duration": 0,
+              "time_camp": null,
+              "round_duration": 120,
+              "total_rounds": 20,
+              "count_up": false,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_INTERVAL"
+            },
+            "count_type": "NONE"
+          },
+          "clickable": true,
+          "description": "Every 2 minutes: 3 Cleans\n0-2min: 80kg\/45kg\n2-4min: 90kg\/55kg\netc. adding +10kg every 2min until failure to complete 3 repetitions within the given timeframe",
+          "qualifier_id": 3,
+          "dates": "AG18.3 Deadline: Thursday 28th June",
+          "title": "CLEAN LADDER E2MOM"
+        },
+        {
+          "workout_settings": {
+            "timer": {
+              "time_camp": 480,
+              "count_up": true,
+              "initial_count_down": 3,
+              "timer_type": "TIMER_STOPWATCH"
+            },
+            "count_type": "REPS"
+          },
+          "clickable": true,
+          "description": "8 MIN AMRAP:\n20 Thrusters\n30 Bar Facing Burpees\n40 Toes to Bar\n\nMen - All Divisions: 55kg\nWomen - All Divisions: 35kg",
+          "qualifier_id": 4,
+          "dates": "AG18.4 Deadline: Friday 29th June",
+          "title": "Qualifier 4"
         }
-      ]
+      ],
+      "description_title": "The qualifiers for the 2018 Aphrodite Games will run between 5th June and 29th June 2018 with 4 qualifying workouts to be completed."
     }
   ]
 }
